@@ -1,0 +1,25 @@
+{
+  "name": "twitter-shookbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sixgun-bridal/twitter-shookbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sixgun-bridal/twitter-shookbot/issues"
+  },
+  "homepage": "https://github.com/sixgun-bridal/twitter-shookbot#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "twitter": "^1.7.0"
+  }
+}
