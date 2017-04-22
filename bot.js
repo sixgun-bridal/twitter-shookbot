@@ -9,10 +9,10 @@ const isTweet = _.conforms({
 })
 
 const client = new twitter({
-  consumer_key: process.env.TWITTER_CONSUMER_KEY,
-  consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
-  access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
-  access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
+  consumer_key: process.env.'Hwf6tV4HoDdNk4ZHAOI6YWrdA',
+  consumer_secret: process.env.'tQDdXIdquwLq84u3ABZsHdOvs9pZ8YiqWWGn9EQKzKDYFOFwIc',
+  access_token_key: process.env.'855889603139653633-5WTGg6sVYriZq8pEhclqLl8F0BLsz13',
+  access_token_secret: process.env.'4IYoIxPVvD6aYnGq3cyZxQqLlqwVBXRkWbDsPwOdvwDOC'
 });
 
 
